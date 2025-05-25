@@ -2,6 +2,7 @@ ATS Resume Expert
 ATS Resume Expert is a powerful Streamlit-based web application designed to help job seekers enhance their resumes by analyzing them against job descriptions using Google Generative AI (Gemini 1.5). The app provides actionable insights such as match percentage, missing keywords, and an AI-generated profile summary—boosting your resume’s chances of passing through Applicant Tracking Systems (ATS).
 
 Features
+
 ✅ Resume vs. Job Description Match Analysis
 Upload your resume (PDF) and compare it with a job description to evaluate compatibility.
 
@@ -18,8 +19,8 @@ AI-generated summary based on your resume to improve professional branding.
 Results are presented in structured JSON format for clarity and reusability.
 
 
-
 Technologies Used
+
 Streamlit – For the interactive user interface
 
 Google Generative AI (Gemini 1.5) – To analyze resumes and generate insights
